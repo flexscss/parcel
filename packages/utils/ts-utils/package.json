@@ -1,6 +1,6 @@
 {
   "name": "@parcel/ts-utils",
-  "version": "2.0.0-alpha.3.1",
+  "version": "2.0.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -16,5 +16,6 @@
   },
   "dependencies": {
     "nullthrows": "^1.1.1"
-  }
+  },
+  "gitHead": "436d7b1cf1c2afbb29a17e96ef4fc2dd6e8e47da"
 }

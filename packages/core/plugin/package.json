@@ -1,6 +1,6 @@
 {
   "name": "@parcel/plugin",
-  "version": "2.0.0-alpha.3.1",
+  "version": "2.0.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -15,6 +15,7 @@
     "node": ">= 10.0.0"
   },
   "dependencies": {
-    "@parcel/types": "^2.0.0-alpha.3.1"
-  }
+    "@parcel/types": "2.0.0"
+  },
+  "gitHead": "436d7b1cf1c2afbb29a17e96ef4fc2dd6e8e47da"
 }

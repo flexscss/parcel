@@ -1,6 +1,6 @@
 {
   "name": "@parcel/node-resolver-core",
-  "version": "2.0.0-alpha.3.1",
+  "version": "2.0.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -15,9 +15,10 @@
     "node": ">= 10.0.0"
   },
   "dependencies": {
-    "@parcel/utils": "^2.0.0-alpha.3.1",
+    "@parcel/utils": "2.0.0",
     "micromatch": "^3.0.4",
     "node-libs-browser": "^2.1.0",
     "nullthrows": "^1.1.1"
-  }
+  },
+  "gitHead": "436d7b1cf1c2afbb29a17e96ef4fc2dd6e8e47da"
 }

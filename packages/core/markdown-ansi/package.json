@@ -1,6 +1,6 @@
 {
   "name": "@parcel/markdown-ansi",
-  "version": "2.0.0-alpha.3.1",
+  "version": "2.0.0",
   "description": "Blazing fast, zero configuration web application bundler",
   "publishConfig": {
     "access": "public"
@@ -17,5 +17,6 @@
   },
   "dependencies": {
     "chalk": "^2.4.2"
-  }
+  },
+  "gitHead": "436d7b1cf1c2afbb29a17e96ef4fc2dd6e8e47da"
 }
